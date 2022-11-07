@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is intended for buying, selling and renting property. It is fully functional and uses Firebase for the backend.
+Deployed at https://stalwart-raindrop-3b019b.netlify.app/. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
