@@ -14,6 +14,7 @@ import "swiper/css/pagination";
 import "swiper/css/scrollbar";
 import Spinner from "../components/Spinner";
 import shareIcon from "../assets/svg/shareIcon.svg";
+
 SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 const Listing = () => {
   const [listing, setListing] = useState(null);
